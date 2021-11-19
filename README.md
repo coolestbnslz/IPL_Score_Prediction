@@ -21,7 +21,9 @@ pip install -r requirements.txt
 
 ## Future Scope
 • Consider venue as one of the aspect while creating a model.
+
 • Add columns of the striker and non striker batsman who is playing at that moment.
+
 • Implement this problem statement using Deep Learning(ANN).
 
 ## Contact
