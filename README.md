@@ -26,5 +26,3 @@ pip install -r requirements.txt
 
 ## Contact
 Any questions can be directed to nbansal1_be18@thapar.edu.
-
-
